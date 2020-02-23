@@ -1,6 +1,6 @@
 # Surviving Mars reference source code
 
-https://lightnix.github.io./SurvivingMars/Docs
+https://lightnix.github.io/SurvivingMars/Docs/index.md.html
 
 This is a significant part of the Lua source code and data of Surviving Mars, made available to aid you in the creation of Surviving Mars mods.
 
