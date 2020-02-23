@@ -1,5 +1,7 @@
 # Surviving Mars reference source code
 
+https://lightnix.github.io./SurvivingMars/Docs
+
 This is a significant part of the Lua source code and data of Surviving Mars, made available to aid you in the creation of Surviving Mars mods.
 
 This is not the entire source of the game and cannot be used to build the game.
